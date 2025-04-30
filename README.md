@@ -38,11 +38,6 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - Collaboration, workspace, access permissions in PowerBi services
 - And more 😅
 
-## GitHub 
-
-- Uploading Large size files using GitHub LFS
-- Tracking the particular type of file extensions for LFS
-
 ## Business related terms
 
 - Gross price
@@ -160,8 +155,6 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="Business_Insights_360\Resources\Data_model.png" class="center">
-
 ### Dashboard designing
 
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
@@ -178,40 +171,6 @@ In Home view, all the views button will be available. User will land on specific
 - Executive View
 - Products
 - Support
-
-## Overall Report
-
-![Overall Report.gif](C:\Users\tirshiva\Documents\Projects\Business_Insights_360\Resources\Overall.gif)
-
-## Info Page
-
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
-
-## Finance View
-
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
-## Sales View
-
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
-
-## Marketing View
-
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
-
-## Supply chain View
-
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
-
-## Executive View
-
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
-
-## Products
-
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
-
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
-
 
 ## Project Outcome
 
